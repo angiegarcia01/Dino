@@ -1,0 +1,15 @@
+{
+    "family" : "dinos",
+    "members" : [ 
+    "allosaurus",
+    "brontosaurus", 
+    "diplodocus", 
+    "plesiosaurus", 
+    "pterodactyl", 
+    "spinosaurus", 
+    "stegosaurus", 
+    "t-rex", 
+    "triceratops", 
+    "velociraptor"
+]
+}
