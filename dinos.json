@@ -1,8 +1,7 @@
 {
-    "family" : "dinos",
-    "members" : [ 
-    "allosaurus",
-    "brontosaurus", 
+    "description" : "Dinos of Lost World",
+    "name" : [ "allosaurus",
+    "brontosaurus",
     "diplodocus", 
     "plesiosaurus", 
     "pterodactyl", 
