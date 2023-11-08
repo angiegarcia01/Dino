@@ -115,10 +115,10 @@ if (off) {
     text("Classification:", mouseX+10, mouseY+80);
     text("Type:", mouseX+10, mouseY+105);
 
-	fill(255,255,255);
-  	fill(dino.r, dino.g, dino.b);
-  	text(dino.name, 15, 200);
-	textSize(15);
+	// fill(255,255,255);
+  	// fill(dino.r, dino.g, dino.b);
+  	// text(dino.name, 15, 200);
+	// textSize(15);
     
     fill("red");
     text(this.data_split[0], mouseX+140, mouseY+30);
